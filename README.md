@@ -15,7 +15,7 @@ Aplikasi mobile **Jasa Titip (Jastip)** yang dibangun menggunakan **Jetpack Comp
 - GitHub (kolaborasi tim)
   
 ## 📂 Struktur Proyek
-'''
+```
 ├── data/ # Sumber data: API, repository, local
 ├── domain/ # Model & use case
 ├── ui/ # Tampilan layar & komponen Compose
@@ -23,6 +23,5 @@ Aplikasi mobile **Jasa Titip (Jastip)** yang dibangun menggunakan **Jetpack Comp
 ├── di/ # Dependency Injection
 ├── utils/ # Fungsi bantu & konfigurasi
 ├── MainActivity.kt / MyApp.kt
-'''
-
+```
 ## Selamat Bereksplorasi dalam dunia Mobile 📱
